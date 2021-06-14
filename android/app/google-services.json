@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1027880128319",
+    "project_id": "focusassistchatapp",
+    "storage_bucket": "focusassistchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027880128319:android:192c887458fc0e85d50d8a",
+        "android_client_info": {
+          "package_name": "com.example.focus_assist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027880128319-uefgbfk2g17q3go8h02p03c0mcvqpl46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.focus_assist",
+            "certificate_hash": "47d4d097fb5280ff30c40ff93fa4b25b017e8498"
+          }
+        },
+        {
+          "client_id": "1027880128319-iu665jv48q1ngs75nnhudr23r0pih861.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjGLzaoibznwLXuH7jquLH7ap7CBaSelI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027880128319-iu665jv48q1ngs75nnhudr23r0pih861.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027880128319-bucgur2h5l4kpmq7n5bgf06bhi76rdvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.focusAssist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027880128319:android:7feb2fbff6e508f9d50d8a",
+        "android_client_info": {
+          "package_name": "com.example.focus_assist_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027880128319-3j0oqj8dtdpsef41la7m4p0jo6fnssgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.focus_assist_chat_app",
+            "certificate_hash": "47d4d097fb5280ff30c40ff93fa4b25b017e8498"
+          }
+        },
+        {
+          "client_id": "1027880128319-iu665jv48q1ngs75nnhudr23r0pih861.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjGLzaoibznwLXuH7jquLH7ap7CBaSelI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027880128319-iu665jv48q1ngs75nnhudr23r0pih861.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027880128319-bucgur2h5l4kpmq7n5bgf06bhi76rdvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.focusAssist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

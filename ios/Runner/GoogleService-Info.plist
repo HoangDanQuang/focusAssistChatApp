@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1027880128319-aonft6fmqmpksnv02racntbr693ooesb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1027880128319-aonft6fmqmpksnv02racntbr693ooesb</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1027880128319-3j0oqj8dtdpsef41la7m4p0jo6fnssgv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAluipcAA12pEk_2pdgEGummuwpAxGfpe4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1027880128319</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.focusAssistChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>focusassistchatapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>focusassistchatapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1027880128319:ios:b7f60d402af077d5d50d8a</string>
+</dict>
+</plist>
